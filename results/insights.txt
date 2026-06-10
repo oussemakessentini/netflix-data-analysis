@@ -1,0 +1,9 @@
+Netflix Dataset Analysis
+========================
+
+Movies represent 69.62% of all Netflix content.
+TV Shows represent 30.38% of all Netflix content.
+The most common country is United States.
+The most common genre is International Movies.
+The director with the most titles is Rajiv Chilaka.
+The column with the most missing data is director.
